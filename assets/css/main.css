@@ -500,12 +500,12 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Hero Section
+#  Section
 --------------------------------------------------------------*/
 .hero {
   width: 100%;
   min-height: 100vh;
-  background: url("../img/hero.png") top center;
+  background: url("../img/hero.jpg") top center;
   background-size: cover;
   position: relative;
   padding: 120px 0;
