@@ -532,7 +532,6 @@ section {
 
 @media (max-width: 1034px) {
   .hero:before {
-    background: rgba(255, 26, 26, 0.7);
   }
 }
 
