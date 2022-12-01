@@ -577,7 +577,7 @@ section {
 }
 
 .hero .btn-get-started:hover {
-  background: rgba(86, 184, 230, 0.8);
+  background: #000000;
 }
 
 .hero .btn-watch-video {
@@ -601,7 +601,7 @@ section {
 }
 
 .hero .btn-watch-video:hover i {
-  color: #82cbed;
+  color: #000000;
 }
 
 @media (max-width: 640px) {
