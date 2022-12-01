@@ -526,7 +526,7 @@ section {
 .hero:before {
   position: absolute;
   content: "";
-  background: rgb(255, 26, 26);
+  background: rgba(255, 26, 26, 0.5);
   inset: 0;
 }
 
