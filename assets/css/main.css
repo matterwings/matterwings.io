@@ -511,7 +511,7 @@ section {
     position: absolute;
     content: "";
     width: 40%;
-    
+    background: var(--color-secondary);
     top: 0;
     bottom: 0;
   }
@@ -520,7 +520,7 @@ section {
 .hero:before {
   position: absolute;
   content: "";
-  background: rgba(255, 26, 26, 0.5);
+  
   inset: 0;
 }
 
