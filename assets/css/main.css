@@ -567,7 +567,7 @@ section {
   border-radius: 50px;
   transition: 0.5s;
   color: #fff;
-  background: var(--color-primary);
+  background: black;
 }
 
 .hero .btn-get-started:hover {
